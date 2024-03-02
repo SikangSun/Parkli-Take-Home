@@ -14,12 +14,12 @@ The first three navigation buttons (home, popular, shelf) are meant to be book s
 
 
 Comment:
-The project took me about 10 hours, and despite that, I only finished around half of the features that I had planned. This is mainly due to my ignorance of app development (which I learned for this project), swiftUI, the Apple ecosystem, and even Figma (for 2 hours, I was researching how to export Figma design to SwiftUI to no notable results). 
-Here is a list of the things that I wanted to implement:
-Better navigation (right now navigations do not work as intended, that is, back button should not exist on frame2 and navigation bar should not move between frame 2 and frame 3)
-Wave animation on sign in screen
-Scroll view on books
-Better default book components, with covers, titles, and progress bar implemented (according to Figma design)
+The project took me about 10 hours, and despite that, I only finished around half of the features that I had planned. This is mainly due to my ignorance of app development (which I learned for this project), swiftUI, the Apple ecosystem, and even Figma (for 2 hours, I was researching how to export Figma design to SwiftUI to no notable results). \
+Here is a list of the things that I wanted to implement:\
+Better navigation (right now navigations do not work as intended, that is, back button should not exist on frame2 and navigation bar should not move between frame 2 and frame 3)\
+Wave animation on sign in screen (there are some code at the end of ooffee.swift that started on this)\
+Scroll view on books\
+Better default book components, with covers, titles, and progress bar implemented (according to Figma design)\
 Sorting for popular and bookmarked
 
 Comment2:
